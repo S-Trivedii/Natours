@@ -1,0 +1,75 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory
+coverage/
+
+# .env environment variable files
+.env
+.env.local
+.env.*.local
+
+# .next (for Next.js projects)
+.next/
+
+# Parcel-bundler cache (for Parcel projects)
+.cache/
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# IDE/Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.DS_Store
+
+# Optional npm cache directory
+.npm
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional REPL history
+.node_repl_history
+
+# Svelte cache
+.svelte/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Husky
+.husky/_
+
+# MacOS files
+.DS_Store
+
+# Linux files
+*.swp
